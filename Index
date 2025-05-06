@@ -1,0 +1,22 @@
+<main id="main">
+  <style>
+    #image{
+     display: block;
+     max-width: 100%;
+     height: auto;
+     margin: 0 auto;
+    }
+    #img-div{
+      text-align: center;
+    }
+  </style>
+  <title id="title">itzell</title>
+  <figure id="img-div" style="text-align: center;">
+<img id="image" style="display: block;max-width: 100%;
+     height: auto;
+     margim: 0 auto;">
+<div id="img-caption">i</div>
+<div id="tribute-info">i</div>
+<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page" target="_blank" id="tribute-link"></a>
+  </figure>
+</main>
