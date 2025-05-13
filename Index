@@ -12,11 +12,11 @@
   </style>
   <title id="title">itzell</title>
   <figure id="img-div" style="text-align: center;">
-<img id="image" style="display: block;max-width: 100%;
+<img src="https://media.4-paws.org/3/e/5/6/3e56785d2a08c27be3ca72082c20fd0a4545586d/VIER%20PFOTEN_2015-04-27_010-1927x1333-1920x1328.jpg" id="image" style="display: block;max-width: 100%;
      height: auto;
      margim: 0 auto;">
-<div id="img-caption">i</div>
-<div id="tribute-info">i</div>
-<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page" target="_blank" id="tribute-link"></a>
+<div id="img-caption">cow</div>
+<div id="tribute-info">highly social, have excellent memories, and can even form friendships</div>
+<a href="https://www.britannica.com/animal/cow" target="_blank" id="tribute-link">link</a>
   </figure>
 </main>
